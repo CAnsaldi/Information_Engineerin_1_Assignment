@@ -1,0 +1,397 @@
+{
+    "documents":[
+        {
+            "recordId":245,
+            "text":"transistor phase splitting circuits",
+            "labels":[
+                "physics",
+                "electrical engineering"
+            ]
+        },
+        {
+            "recordId":891,
+            "text":"the determination of the orbits of individual meteors by radio methods",
+            "labels":[
+                "physics",
+                "astronomics"
+            ]
+        },
+        {
+            "recordId":1217,
+            "text":"articles on text formatting systems, including \"what you see is what you get\" systems. examples: t/nroff, scribe, bravo.",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":1741,
+            "text":"i am interested in cognitive models of library use. what studies or articles are there looking at the psychology of library and information use, i.e. strategies of seeking, information and the way its usefulness is perceived. use of libraries, library materials, user behaviour, information seeking behaviour or use, usefulness, psychology of library and information use, library user, user satisfaction.",
+            "labels":[
+                "computer sciences",
+                "psychology"
+            ]
+        },
+        {
+            "recordId":2405,
+            "text":"memory management aspects of operating systems",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":3777,
+            "text":"determination of the current systems in the upper atmosphere during magnetic storms",
+            "labels":[
+                "physics",
+                "astronomics",
+                "geo sciences"
+            ]
+        },
+        {
+            "recordId":4233,
+            "text":"articles about the sensitivity of the eigenvalue decomposition of real matrices, in particular, zero-one matrices. i'm especially interested in the separation of eigenspaces corresponding to distinct eigenvalues. articles on the subject: c. davis and w.m. kahn, \"the rotation of eigenvectors by a permutation:, siam j. numerical analysis, vol. 7, no. 1 (1970); g.w. stewart, \"error bounds for approximate invariant subspaces of closed linear operators\", siam j. numerical analysis., vol. 8, no. 4 (1971).", 
+            "labels":[
+                "mathematics"
+            ]
+        },
+        {
+            "recordId":4767,
+            "text":"number representation in binary machines",
+            "labels":[
+                "mathematics",
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":5899,
+            "text":"simultaneous observations of whistlers and lightning discharges",
+            "labels":[
+                "physics",
+                "geo sciences",
+                "astronomics"
+            ]
+        },
+        {
+            "recordId":6324,
+            "text":"what does type compatibility mean in languages that allow programmer defined types? (you might want to restrict this to \"extensible\" languages that allow definition of abstract data types or programmer-supplied definitions of operators like *, +.)",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":7328,
+            "text":"the effect of oxidation on circuit breaker",
+            "labels":[
+                "physics",
+                "electrical engineering",
+                "chemistry"
+            ]
+        },
+        {
+            "recordId":8141,
+            "text":"articles describing the relationship between data types and concurrency (e.g. what is the type of a process? when is a synchronization attempt between two processes \"type correct\"? in a message-passing system is there any notion of the types of messages?--i.e. any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type)",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":9125,
+            "text":"addressing schemes for resources in networks; resource addressing in network operating systems",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":9983,
+            "text":"details of available low voltage capacitors",
+            "labels":[
+                "physics",
+                "electrical engineering"
+            ]
+        },
+        {
+            "recordId":10637,
+            "text":"i would be interested to receive information on non-users of libraries, including any studies of who are non-users and why they are non-users. i would be especially grateful for papers giving the methodological approaches used in these studies and the results obtained. non-use, library use, user studies.",
+            "labels":[
+                "psychology",
+                "literature",
+                "linguistics"
+            ]
+        },
+        {
+            "recordId":10893,
+            "text":"i'd like to find articles describing the use of singular value decomposition in digital image processing. applications include finding approximations to the original image and restoring images that are subject to noise. an article on the subject is h.c. andrews and c.l. patterson \"outer product expansions and their uses in digital image processing\", american mathematical monthly, vol. 82.",
+            "labels":[
+                "mathematics",
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":11961,
+            "text":"the effect of small distortions in the surface of a cavity resonator",
+            "labels":[
+                "physics",
+                "electrical engineering",
+                "mathematics"
+            ]
+        },
+        {
+            "recordId":13280,
+            "text":"the role of information retrieval in knowledge based systems (i.e., expert systems).",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":14000,
+            "text":"i would be pleased to receive any papers describing free text retrieval packages like cairs, assasin, status, deco or stairs, especially if the features of different packages are compared, or if the implementation and use of a system is described. i am especially interested in packages for minis and micros and in any association between free text retrieval packages and database management systems. minicomputers, microcomputers, database management systems, free text retrieval",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":14536,
+            "text":"i am interested in information and less developed countries. this would include the particular problems of less developed countries now, and their expected future problems (such as electronic publishing). also, the information policies of less developed countries and the factors which may affect their practical implementation. what are the priorities and suggested practical stages in the solution of problems and implementation of policies. less developed countries, under developed countries, developing countries.",
+            "labels":[
+                "economy",
+                "politics"
+            ]
+        },
+        {
+            "recordId":15349,
+            "text":"analysis and perception of shape by humans and computers. shape descriptions, shape recognition by computer. two-dimensional shapes. measures of circularity. shape matching.",
+            "labels":[
+                "computer sciences",
+                "psychology"
+            ]
+        },
+        {
+            "recordId":15842,
+            "text":"i would be pleased to receive any information on the use of journals in libraries (any types of library), both current and back issues. i am also interested in information on the ways in which libraries have coped with cuts in periodicals budgets. periodicals, journals, libraries, user studies, cuts in public libraries, academic libraries, university libraries, polytechnic libraries, higher education libraries.",
+            "labels":[
+                "literature",
+                "economy",
+                "linguistics"
+            ]
+        },
+        {
+            "recordId":15842,
+            "text":"references on electric field theories of the aurora",
+            "labels":[
+                "physics",
+                "geo sciences",
+                "mathematics"
+            ]
+        },
+        {
+            "recordId":19262,
+            "text":"computer performance evaluation techniques using pattern recognition and clustering.",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":19982,
+            "text":"please send abstracts on the source spectra of lightning discharges",
+            "labels":[
+                "physics",
+                "geo sciences"
+            ]
+        },
+        {
+            "recordId":21083,
+            "text":"measurements of ionospheric drifts near the equator",
+            "labels":[
+                "physics",
+                "geo sciences"
+            ]
+        },
+        {
+            "recordId":21265,
+            "text":"the theory of stability in relation to control systems with relay elements",
+            "labels":[
+                "electrical engineering",
+                "physics"
+            ]
+        },
+        {
+            "recordId":21278,
+            "text":"i would like details of the work which has been done to extend the frequency range of magnetic amplifiers",
+            "labels":[
+                "electrical engineering",
+                "physics"
+            ]
+        },
+        {
+            "recordId":21731,
+            "text":"portable operating systems",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":22423,
+            "text":"mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers",
+            "labels":[
+                "mathematics"
+            ]
+        },
+        {
+            "recordId":22698,
+            "text":"measurement of plasma temperatures in arc discharge using shock wave techniques",
+            "labels":[
+                "physics"
+            ]
+        },
+        {
+            "recordId":23223,
+            "text":"advantages of parametric amplifiers",
+            "labels":[
+                "electrical engineering",
+                "physics"
+            ]
+        },
+        {
+            "recordId":23242,
+            "text":"i am doing a study of the librarian's christian fellowship from a professional angle. i am looking for literature which reflects a distinctly christian view of librarianship, particularly prior to 1973. anything on the historical development of the librarian's christian fellowship would be of interest. also coverage of the group in the professional press since 1973, including their pronouncements and views of members and non-members of christian activity and attitudes in the profession (especially subjects like ethics, censorship, selection etc.). christian, evangelical, ethics, censorship, librarian's christian fellowship, lcf.",
+            "labels":[
+                "religion",
+                "literature",
+                "ethics",
+                "psychology"
+            ]
+        },
+        {
+            "recordId":24081,
+            "text":"estimates of the density of ionization and temperature in the solar corona",
+            "labels":[
+                "physics",
+                "astronomics"
+            ]
+        },
+        {
+            "recordId":24894,
+            "text":"analysis of nonlinear systems using phase plane techniques",
+            "labels":[
+                "mathematics"
+            ]
+        },
+        {
+            "recordId":25733,
+            "text":"concurrency control mechanisms in operating systems",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":28098,
+            "text":"i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please",
+            "labels":[
+                "electrical engineering",
+                "biology"
+            ]
+        },
+        {
+            "recordId":30535,
+            "text":"similarities between the diffraction theory of electromagnetic waves and that of electron streams",
+            "labels":[
+                "physics"
+            ]
+        },
+        {
+            "recordId":33367,
+            "text":"the behaviour of a beam of charged particles in the presence of plane conductors",
+            "labels":[
+                "physics"
+            ]
+        },
+        {
+            "recordId":35418,
+            "text":"i am interested in information policy, e.g. national (including those of national 'centres' and 'foci'), scientific and technological (in medicine, industry, agriculture). sources may include various professional bodies, parliamentary committees, counterparts in other countries, such as the various presidential committees in the usa, national centres, and, of course, those of international 'conferences' and bodies such as unesco. i am more interested in implementation than in paper declarations which are not backed up by sufficient resources. planning, aims and objectives, government, international, policy, information policy, national policies, cooperation.",
+            "labels":[
+                "politics"
+            ]
+        },
+        {
+            "recordId":35491,
+            "text":"control characteristics of sampling servo systems",
+            "labels":[
+                "mathematics",
+                "electrical engineering"
+            ]
+        },
+        {
+            "recordId":35645,
+            "text":"interested in articles on robotics, motion planning particularly the geometric and combinatorial aspects. we are not interested in the dynamics of arm motion.",
+            "labels":[
+                "mathematics",
+                "electrical engineering",
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":35727,
+            "text":"fast algorithm for context-free language recognition or parsing",
+            "labels":[
+                "computer sciences",
+                "linguistics"
+            ]
+        },
+        {
+            "recordId":37026,
+            "text":"transistor sweep generators",
+            "labels":[
+                "electrical engineering",
+                "physics"
+            ]
+        },
+        {
+            "recordId":37202,
+            "text":"high stability high input impedance transistorised analogue amplifier",
+            "labels":[
+                "electrical engineering"
+            ]
+        },
+        {
+            "recordId":37294,
+            "text":"i am interested in decision support systems (management information systems) both computerised and non-computerised but especially in the uk. i am interested in case studies of their behavioural, psychological and sociological impact. decision support systems, management information systems.",
+            "labels":[
+                "economy",
+                "computer sciences",
+                "psychology"
+            ]
+        },
+        {
+            "recordId":37511,
+            "text":"the application of fuzzy subset theory to clustering and information retrieval problems. this includes performance evaluation and automatic indexing considerations.",
+            "labels":[
+                "computer sciences"
+            ]
+        },
+        {
+            "recordId":37845,
+            "text":"the use of lunar radio reflections in investigations of the nature of the moons surface",
+            "labels":[
+                "astronomics",
+                "physics"
+            ]
+        },
+        {
+            "recordId":38367,
+            "text":"what references on integral spectrum of primary cosmic rays",
+            "labels":[
+                "astronomics",
+                "physics"
+            ]
+        },
+        {
+            "recordId":39228,
+            "text":"i would be interested in any information on online education and training using computer based training aids for online searching. i am also interested in the training of end users. training, education, online information retrieval, computer assisted instruction, teaching packages, end users.",
+            "labels":[
+                "literature",
+                "computer sciences"
+            ]
+        }
+    ]
+
+}
