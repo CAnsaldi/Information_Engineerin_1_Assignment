@@ -1,0 +1,31 @@
+{
+    "labels_ca":[
+        "physics", 
+        "electrical engineering", 
+        "astronomics", 
+        "computer sciences", 
+        "psychology", 
+        "geo sciences", 
+        "mathematics", 
+        "chemistry", 
+        "literature", 
+        "linguistics", 
+        "economy", 
+        "politics", 
+        "religion", 
+        "ethics", 
+        "biology"
+    ],
+    "labels_vd":[
+        "Elektrotechnik", 
+        "Astrophysik", 
+        "Informatik", 
+        "Psychologie", 
+        "Mathematik", 
+        "Meteorologie", 
+        "Bibliothekswissenschaften", 
+        "Entwicklungspolitik", 
+        "Theologie", 
+        "Politik", 
+        "Maschinenbau"]
+}

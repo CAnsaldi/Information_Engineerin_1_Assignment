@@ -1,0 +1,256 @@
+{
+	"TREC": {
+		"DOC": [
+			{
+				"recordId": "245",
+				"label": "Elektrotechnik",
+				"text": "transistor phase splitting circuits"
+			},
+			{
+				"recordId": "891",
+				"label": "Astrophysik",
+				"text": "the determination of the orbits of individual meteors by\nradio methods"
+			},
+			{
+				"recordId": "1217",
+				"label": "Informatik",
+				"text": "articles on text formatting systems, including \"what you\nsee is what you get\" systems. examples: t/nroff, scribe,\nbravo."
+			},
+			{
+				"recordId": "1741",
+				"label": "Psychologie",
+				"text": "i am interested in cognitive models of library use. what\nstudies or articles are there looking at the psychology of\nlibrary and information use, i.e. strategies of seeking,\ninformation and the way its usefulness is perceived. use of\nlibraries, library materials, user behaviour, information\nseeking behaviour or use, usefulness, psychology of library and\ninformation use, library user, user satisfaction."
+			},
+			{
+				"recordId": "2405",
+				"label": "Informatik",
+				"text": "memory management aspects of operating systems"
+			},
+			{
+				"recordId": "3777",
+				"label": "Astrophysik",
+				"text": "determination of the current systems in the upper\natmosphere during magnetic storms"
+			},
+			{
+				"recordId": "4233",
+				"label": "Mathematik",
+				"text": "articles about the sensitivity of the eigenvalue\ndecomposition of real matrices, in particular, zero-one\nmatrices. i'm especially interested in the separation of\neigenspaces corresponding to distinct eigenvalues. articles on\nthe subject: c. davis and w.m. kahn, \"the rotation of\neigenvectors by a permutation:, siam j. numerical analysis,\nvol. 7, no. 1 (1970); g.w. stewart, \"error bounds for\napproximate invariant subspaces of closed linear operators\",\nsiam j. numerical analysis., vol. 8, no. 4 (1971)."
+			},
+			{
+				"recordId": "4767",
+				"label": "Informatik",
+				"text": "number representation in binary machines"
+			},
+			{
+				"recordId": "5899",
+				"label": "Meteorologie",
+				"text": "simultaneous observations of whistlers and lightning\ndischarges"
+			},
+			{
+				"recordId": "6324",
+				"label": "Informatik",
+				"text": "what does type compatibility mean in languages that allow\nprogrammer defined types? (you might want to restrict this to\n\"extensible\" languages that allow definition of abstract data\ntypes or programmer-supplied definitions of operators like *,\n+.)"
+			},
+			{
+				"recordId": "7328",
+				"label": "Elektrotechnik",
+				"text": "the effect of oxidation on circuit breaker\ncontacts"
+			},
+			{
+				"recordId": "8141",
+				"label": "Informatik",
+				"text": "articles describing the relationship between data types\nand concurrency (e.g. what is the type of a process? when is a\nsynchronization attempt between two processes \"type correct\"?\nin a message-passing system is there any notion of the types of\nmessages?--i.e. any way to check that the sender of the message\nand the receiver are both treating the bit stream as some\nparticular type)"
+			},
+			{
+				"recordId": "9125",
+				"label": "Informatik",
+				"text": "addressing schemes for resources in networks; resource\naddressing in network operating systems"
+			},
+			{
+				"recordId": "9983",
+				"label": "Elektrotechnik",
+				"text": "details of available low voltage capacitors"
+			},
+			{
+				"recordId": "10637",
+				"label": "Bibliothekswissenschaften",
+				"text": "i would be interested to receive information on non-users\nof libraries, including any studies of who are non-users and\nwhy they are non-users. i would be especially grateful for\npapers giving the methodological approaches used in these\nstudies and the results obtained. non-use, library use, user\nstudies."
+			},
+			{
+				"recordId": "10893",
+				"label": "Informatik",
+				"text": "i'd like to find articles describing the use of singular\nvalue decomposition in digital image processing. applications\ninclude finding approximations to the original image and\nrestoring images that are subject to noise. an article on the\nsubject is h.c. andrews and c.l. patterson \"outer product\nexpansions and their uses in digital image processing\",\namerican mathematical monthly, vol. 82."
+			},
+			{
+				"recordId": "11961",
+				"label": "Elektrotechnik",
+				"text": "the effect of small distortions in the surface of a\ncavity resonator"
+			},
+			{
+				"recordId": "13280",
+				"label": "Informatik",
+				"text": "the role of information retrieval in knowledge based\nsystems (i.e., expert systems)."
+			},
+			{
+				"recordId": "14000",
+				"label": "Informatik",
+				"text": "i would be pleased to receive any papers describing free\ntext retrieval packages like cairs, assasin, status, deco or\nstairs, especially if the features of different packages are\ncompared, or if the implementation and use of a system is\ndescribed. i am especially interested in packages for minis and\nmicros and in any association between free text retrieval\npackages and database management systems. minicomputers,\nmicrocomputers, database management systems, free text\nretrieval"
+			},
+			{
+				"recordId": "14536",
+				"label": "Entwicklungspolitik",
+				"text": "i am interested in information and less developed\ncountries. this would include the particular problems of less\ndeveloped countries now, and their expected future problems\n(such as electronic publishing). also, the information policies\nof less developed countries and the factors which may affect\ntheir practical implementation. what are the priorities and\nsuggested practical stages in the solution of problems and\nimplementation of policies. less developed countries, under\ndeveloped countries, developing countries."
+			},
+			{
+				"recordId": "15349",
+				"label": "Informatik",
+				"text": "analysis and perception of shape by humans and computers.\nshape descriptions, shape recognition by computer.\ntwo-dimensional shapes. measures of circularity. shape\nmatching."
+			},
+			{
+				"recordId": "15842",
+				"label": "Bibliothekswissenschaften",
+				"text": "i would be pleased to receive any information on the use\nof journals in libraries (any types of library), both current\nand back issues. i am also interested in information on the\nways in which libraries have coped with cuts in periodicals\nbudgets. periodicals, journals, libraries, user studies, cuts\nin public libraries, academic libraries, university libraries,\npolytechnic libraries, higher education libraries."
+			},
+			{
+				"recordId": "18179",
+				"label": "Meteorologie",
+				"text": "references on electric field theories of the\naurora"
+			},
+			{
+				"recordId": "19262",
+				"label": "Informatik",
+				"text": "computer performance evaluation techniques using pattern\nrecognition and clustering."
+			},
+			{
+				"recordId": "19982",
+				"label": "Elektrotechnik",
+				"text": "please send abstracts on the source spectra of lightning\ndischarges"
+			},
+			{
+				"recordId": "21083",
+				"label": "Astrophysik",
+				"text": "measurements of ionospheric drifts near the\nequator"
+			},
+			{
+				"recordId": "21265",
+				"label": "Elektrotechnik",
+				"text": "the theory of stability in relation to control systems\nwith relay elements"
+			},
+			{
+				"recordId": "21278",
+				"label": "Elektrotechnik",
+				"text": "i would like details of the work which has been done to\nextend the frequency range of magnetic amplifiers"
+			},
+			{
+				"recordId": "21731",
+				"label": "Informatik",
+				"text": "portable operating systems"
+			},
+			{
+				"recordId": "22423",
+				"label": "Elektrotechnik",
+				"text": "mathematical expressions and graphs for the design of\ntransistorised tuned pass band amplifiers"
+			},
+			{
+				"recordId": "22698",
+				"label": "Elektrotechnik",
+				"text": "measurement of plasma temperatures in arc discharge using\nshock wave techniques"
+			},
+			{
+				"recordId": "23223",
+				"label": "Elektrotechnik",
+				"text": "advantages of parametric amplifiers"
+			},
+			{
+				"recordId": "23242",
+				"label": "Theologie",
+				"text": "i am doing a study of the librarian's christian\nfellowship from a professional angle. i am looking for\nliterature which reflects a distinctly christian view of\nlibrarianship, particularly prior to 1973. anything on the\nhistorical development of the librarian's christian fellowship\nwould be of interest. also coverage of the group in the\nprofessional press since 1973, including their pronouncements\nand views of members and non-members of christian activity and\nattitudes in the profession (especially subjects like ethics,\ncensorship, selection etc.). christian, evangelical, ethics,\ncensorship, librarian's christian fellowship, lcf."
+			},
+			{
+				"recordId": "24081",
+				"label": "Astrophysik",
+				"text": "estimates of the density of ionization and temperature in\nthe solar corona"
+			},
+			{
+				"recordId": "24894",
+				"label": "Mathematik",
+				"text": "analysis of nonlinear systems using phase plane\ntechniques"
+			},
+			{
+				"recordId": "25733",
+				"label": "Informatik",
+				"text": "concurrency control mechanisms in operating\nsystems"
+			},
+			{
+				"recordId": "28098",
+				"label": "Elektrotechnik",
+				"text": "i wish to calculate the inductance and loss in coils made\nusing printed circuit or other miniaturization ideas. a\nsuitable article please"
+			},
+			{
+				"recordId": "30535",
+				"label": "Elektrotechnik",
+				"text": "similarities between the diffraction theory of\nelectromagnetic waves and that of electron streams"
+			},
+			{
+				"recordId": "33367",
+				"label": "Elektrotechnik",
+				"text": "the behaviour of a beam of charged particles in the\npresence of plane conductors"
+			},
+			{
+				"recordId": "35418",
+				"label": "Politik",
+				"text": "i am interested in information policy, e.g. national\n(including those of national 'centres' and 'foci'), scientific\nand technological (in medicine, industry, agriculture). sources\nmay include various professional bodies, parliamentary\ncommittees, counterparts in other countries, such as the\nvarious presidential committees in the usa, national centres,\nand, of course, those of international 'conferences' and bodies\nsuch as unesco. i am more interested in implementation than in\npaper declarations which are not backed up by sufficient\nresources. planning, aims and objectives, government,\ninternational, policy, information policy, national policies,\ncooperation."
+			},
+			{
+				"recordId": "35491",
+				"label": "Maschinenbau",
+				"text": "control characteristics of sampling servo systems"
+			},
+			{
+				"recordId": "35645",
+				"label": "Informatik",
+				"text": "interested in articles on robotics, motion planning\nparticularly the geometric and combinatorial aspects. we are\nnot interested in the dynamics of arm motion."
+			},
+			{
+				"recordId": "35727",
+				"label": "Informatik",
+				"text": "fast algorithm for context-free language recognition or\nparsing"
+			},
+			{
+				"recordId": "37026",
+				"label": "Elektrotechnik",
+				"text": "transistor sweep generators"
+			},
+			{
+				"recordId": "37202",
+				"label": "Elektrotechnik",
+				"text": "high stability high input impedance transistorised\nanalogue amplifier"
+			},
+			{
+				"recordId": "37294",
+				"label": "Informatik",
+				"text": "i am interested in decision support systems (management\ninformation systems) both computerised and non-computerised but\nespecially in the uk. i am interested in case studies of their\nbehavioural, psychological and sociological impact. decision\nsupport systems, management information systems."
+			},
+			{
+				"recordId": "37511",
+				"label": "Informatik",
+				"text": "the application of fuzzy subset theory to clustering and\ninformation retrieval problems. this includes performance\nevaluation and automatic indexing considerations."
+			},
+			{
+				"recordId": "37845",
+				"label": "Astrophysik",
+				"text": "the use of lunar radio reflections in investigations of\nthe nature of the moons surface"
+			},
+			{
+				"recordId": "38367",
+				"label": "Astrophysik",
+				"text": "what references on integral spectrum of primary cosmic\nrays"
+			},
+			{
+				"recordId": "39228",
+				"label": "Informatik",
+				"text": "i would be interested in any information on online\neducation and training using computer based training aids for\nonline searching. i am also interested in the training of end\nusers. training, education, online information retrieval,\ncomputer assisted instruction, teaching packages, end\nusers."
+			}
+		]
+	}
+}

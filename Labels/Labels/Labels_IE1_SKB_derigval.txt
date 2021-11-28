@@ -1,0 +1,1 @@
+['Elektrotechnik', 'Astrophysik', 'Informatik', 'Psychologie', 'Mathematik', 'Meteorologie', 'Bibliothekswissenschaften', 'Entwicklungspolitik', 'Theologie', 'Politik', 'Maschinenbau']

@@ -1,0 +1,1 @@
+['physics', 'electrical engineering', 'astronomics', 'computer sciences', 'psychology', 'geo sciences', 'mathematics', 'chemistry', 'literature', 'linguistics', 'economy', 'politics', 'religion', 'ethics', 'biology']
